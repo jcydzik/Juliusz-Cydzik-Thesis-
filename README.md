@@ -12,10 +12,10 @@ Here I will add various scripts associated with my masters thesis which I will b
 
 -In my project I am using 8 target locations which the subject makes eye and arm movements to refered to as classes  
 
--2) The other two matlab scripts are used to compute accuracy and delay period.
+-2) The other matlab script allfigs.m is used to plot accuracy and delay periods over time
 
--Subjects perform the tasks after a given delay period.
+-Subjects perform the tasks after a given delay period
 
--As delay period changes accuracy is reviewed. 
+-As delay period changes accuracy is reviewed 
 
 Thesis work in progress!Will provide more description shortly:)
