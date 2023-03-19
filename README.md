@@ -11,6 +11,6 @@ Non-Human Primates During Delayed Movement Task", which I will be completing in 
 
 -In our lab we use behavioral tasks referred to as stacks 
 
--In my project I am using 8 target locations which the animal makes eye and arm movements to refered to as classes  
+-In my project I am using 8 target locations which the subject makes eye and arm movements to refered to as classes  
 
 Thesis work in progress!Will provide more description shortly:)
