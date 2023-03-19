@@ -9,7 +9,7 @@ Non-Human Primates During Delayed Movement Task", which I will be completing in 
 "trial" "stack" "class" "duration" "H_amp" "V_amp" "H_vel" "V_vel" "EyeRT" "ArmRT" "arm_duration" "ArmRT2" "button1" "button2" "delay" "sac ang" "targR" "targL"
 
 
--In our lab we use behavioral tasks refered to as stacks 
+-In our lab we use behavioral tasks referred to as stacks 
 
 -In my project I am using 8 target locations which the animal makes eye and arm movements to refered to as classes  
 
