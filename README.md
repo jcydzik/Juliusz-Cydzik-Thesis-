@@ -18,7 +18,7 @@ Here are various scripts associated with my thesis.
 
 -As delay period changes accuracy is reviewed 
 
-3) wilcoxJCpub.m is an analysis script used with :
+-3) wilcoxJCpub.m is an analysis script used with :
  
 18monthtable.txt
 Rewardtable.txt
