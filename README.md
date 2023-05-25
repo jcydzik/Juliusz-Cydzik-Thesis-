@@ -24,6 +24,7 @@ Here are various scripts associated with my thesis.
 Rewardtable.txt
 flashtable.txt
 flashperiodtable.txt
+Full_table.txt
 
 
 horizontal_bar_final.m is a script used to generate horizontal bar plots. 
