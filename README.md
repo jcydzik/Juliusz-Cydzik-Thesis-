@@ -1,5 +1,5 @@
 # Juliusz-Cydzik-Thesis-
-Here I will add various scripts associated with my masters thesis which I will be completing in  May of 2023.
+Here are various scripts associated with my thesis. 
 
 1)-The first script compare_ang.m can be used along with the sfile.txt
 
@@ -18,4 +18,14 @@ Here I will add various scripts associated with my masters thesis which I will b
 
 -As delay period changes accuracy is reviewed 
 
-Thesis work in progress!Will provide more description shortly:)
+3) wilcoxJCpub.m is an analysis script used with :
+ 
+18monthtable.txt
+Rewardtable.txt
+flashtable.txt
+flashperiodtable.txt
+
+
+horizontal_bar_final.m is a script used to generate horizontal bar plots. 
+
+Enjoy!
